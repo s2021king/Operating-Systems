@@ -1,0 +1,1 @@
+Memory Management is responsible for managing the computers primary memory. This function keeps track of the status of each memory location. It keeps track of when memory freed or unaccounted for and updates the status.
