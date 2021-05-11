@@ -1,1 +1,2 @@
 Memory Management is responsible for managing the computers primary memory. This function keeps track of the status of each memory location. It keeps track of when memory freed or unaccounted for and updates the status.
+File management administers a system that correctly handles digital data. If the file management system is effective it will improve overall function of a business workflow. It provides a quick searchable database for organized important data.
